@@ -1,0 +1,1 @@
+web: gnucorn -b :$PORT microblog:app
